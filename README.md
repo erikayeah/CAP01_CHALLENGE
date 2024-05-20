@@ -223,4 +223,4 @@ Para validar la funcionalidad de tu API, utiliza pytest para ejecutar el módulo
 ```
 pytest tests.py
 ```
-Esto correrá todas las pruebas definidas en tests.py y te mostrará los resultados.
+Esto correrá todas las pruebas definidas en tests.py y te mostrará los resultados.# CAP01_CHALLENGE
